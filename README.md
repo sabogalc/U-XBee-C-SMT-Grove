@@ -22,7 +22,7 @@ The most difficulat part of this process was creating the footprint of the board
 Digi has a datasheeet for this part with the measurements [here](https://ftp1.digi.com/support/images/3405-SM-socket_hole-placement.pdf), but I personally would not trust the measurements from this document. I won't even go through the effort of correcting everything wrong with it, but the most immediate problem I found was that this document states that the rectangular hole measures 12.065mm x 17.145mm, while the Gerbers indicated that this hole was 14mm x 20mm. I recreated my footprint by following the Gerbers, and if you need a footprint for this part, just use mine. I combined the footprint for the board and the headers into one footprint called "XBEE_SMT" in the footprints library of this project.
 
 ![image](https://github.com/sabogalc/U-XBee-C-SMT-Grove/assets/53708281/2e412584-bb6a-4b63-8741-42568cee28ea)
->XBEE_SMT footprint from this project complete with the board shape, header pin holes, and fiduciary marks.
+>XBEE_SMT footprint from this project complete with the board shape, header pin holes, and fiducial markers.
 
 The documentation for the board shape was a little better, but it still had a few issues. You can find the mechanical specifications [here](https://www.digi.com/resources/documentation/digidocs/pdfs/90001457-13.pdf#page=12), but they are incorrect by a factor of 0.04mm at the top. The corrected measurements are below. The documentation does not give measurements for the Non-Plated Through Holes in each corner of the board, but I got those from the Gerber files (the top two are 3.24mm in diameter and the bottom two are 3.2mm in diameter).
 
