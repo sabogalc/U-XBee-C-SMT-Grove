@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "XBEE_Grove_C")(type "KiCad")(uri "${KIPRJMOD}/XBEE_Grove_C.kicad_sym")(options "")(descr ""))
+)
