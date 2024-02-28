@@ -2950,7 +2950,7 @@
   (symbol (lib_id "Connector:USB_C_Receptacle_USB2.0_16P") (at 29.21 84.455 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 66ce33b9-5c82-4eb6-9a70-ed92d167bc26)
-    (property "Reference" "J3" (at 29.21 62.23 0)
+    (property "Reference" "J8" (at 29.21 62.23 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "USB_C_Receptacle_USB2.0_16P" (at 29.21 64.77 0)
@@ -2982,7 +2982,7 @@
     (instances
       (project "XBEE Grove C"
         (path "/c24e3a98-1eaf-47b8-85b4-f5ec44a15aa3"
-          (reference "J3") (unit 1)
+          (reference "J8") (unit 1)
         )
       )
     )
@@ -3218,7 +3218,7 @@
   (symbol (lib_id "XBEE_Grove_C:TSW-102-07-G-S") (at 266.065 24.13 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8ed944db-34d4-438a-a836-1bee44fd6656)
-    (property "Reference" "J12" (at 255.905 15.24 0)
+    (property "Reference" "J10" (at 255.905 15.24 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TSW-102-07-G-S" (at 255.905 17.78 0)
@@ -3235,7 +3235,7 @@
     (instances
       (project "XBEE Grove C"
         (path "/c24e3a98-1eaf-47b8-85b4-f5ec44a15aa3"
-          (reference "J12") (unit 1)
+          (reference "J10") (unit 1)
         )
       )
     )
@@ -4043,10 +4043,10 @@
   (symbol (lib_id "XBEE_Grove_C:B2B-PH-K-S") (at 66.04 137.16 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f58d804a-276f-457f-a07e-c4a71809bf31)
-    (property "Reference" "J2" (at 73.025 134.62 0)
+    (property "Reference" "J7" (at 72.39 134.62 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "B2B-PH-K-S" (at 73.025 137.16 0)
+    (property "Value" "B2B-PH-K-S" (at 72.39 137.16 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "XBEE_Grove_C:JST_B2B-PH-K-S" (at 66.04 144.78 0)
@@ -4060,7 +4060,7 @@
     (instances
       (project "XBEE Grove C"
         (path "/c24e3a98-1eaf-47b8-85b4-f5ec44a15aa3"
-          (reference "J2") (unit 1)
+          (reference "J7") (unit 1)
         )
       )
     )
@@ -4145,10 +4145,10 @@
   (symbol (lib_id "XBEE_Grove_C:TSW-103-07-G-S") (at 80.01 25.4 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ff145b1a-fe83-4baf-b809-3a56a595be23)
-    (property "Reference" "J13" (at 86.995 24.13 90)
+    (property "Reference" "J11" (at 86.36 24.13 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "TSW-103-07-G-S" (at 86.995 26.67 90)
+    (property "Value" "TSW-103-07-G-S" (at 86.36 26.67 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "XBEE_Grove_C:SAMTEC_TSW-103-07-G-S" (at 72.39 26.67 0)
@@ -4163,7 +4163,7 @@
     (instances
       (project "XBEE Grove C"
         (path "/c24e3a98-1eaf-47b8-85b4-f5ec44a15aa3"
-          (reference "J13") (unit 1)
+          (reference "J11") (unit 1)
         )
       )
     )
