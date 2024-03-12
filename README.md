@@ -32,7 +32,7 @@ At this point, the hardest part was done, and I got to recreating the schematic.
 
 Notably, the BOM refers to the 4-pin Grove headers as ACC391450, but I could not find anything for this part number. 110990030 appears to be the exact same part, and this is the one I used for my project. Another discrepancy with the BOM is that it states the 10uF capacitors are size 0402/1005 Metric, but they appear to be 0603/1608 Metric at least, so I manually edited that. Additionally, the LTST-C190CKT red LED is obsolete, so I swapped it with a QBLP601-R5 LED if you were to actually make this with new parts and not just take them from an XBee Grove. Lastly, the part number given for the LED labeled "Green" in the schematic is a blue one, but this should not be a big deal.
 
-With all of the parts imported and the schematic recreated (PDF version [here](https://pdfhost.io/v/o1tcYA~oL_UXBeeC_Grove_SMT)), the last thing to do was to route everything on the board. Once again, I did my best to reference the Gerber files and match the placement of the components, tracks, vias, and silkscreen. Once it was all said and done, I found my board to be quite similar to the original.
+With all of the parts imported and the schematic recreated (PDF version [here](https://github.com/sabogalc/U-XBee-C-SMT-Grove/blob/main/XBEE%20Grove%20C/XBEE%20Grove%20C.pdf)), the last thing to do was to route everything on the board. Once again, I did my best to reference the Gerber files and match the placement of the components, tracks, vias, and silkscreen. Once it was all said and done, I found my board to be quite similar to the original.
 
 ![XBee Comparison](https://github.com/sabogalc/U-XBee-C-SMT-Grove/assets/53708281/5a54a3d8-fb5a-4643-b0c1-06bdf915c136)
 
