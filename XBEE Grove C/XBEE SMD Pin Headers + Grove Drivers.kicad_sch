@@ -243,8 +243,8 @@
 					)
 				)
 			)
-			(property "Value" ""
-				(at -1.27 -8.89 0)
+			(property "Value" "76002056"
+				(at -12 -15.5 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -540,8 +540,8 @@
 					)
 				)
 			)
-			(property "Value" ""
-				(at -1.27 -8.89 0)
+			(property "Value" "76002056"
+				(at 0 -43 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -747,8 +747,8 @@
 					)
 				)
 			)
-			(property "Value" ""
-				(at -1.27 -8.89 0)
+			(property "Value" "76002056"
+				(at 12 -15.5 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -3002,6 +3002,108 @@
 		)
 	)
 	(symbol
+		(lib_id "XBEE_Grove_C:XBEE_SMT_P1-13")
+		(at 123.19 95.885 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "215076d3-8392-4efd-9b97-f86663c0375c")
+		(property "Reference" "J9"
+			(at 110 56.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "76002056"
+			(at 107 59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "XBEE_Grove_C:XBEE_SMT_P1-13"
+			(at 123.19 64.135 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 121.92 104.775 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 123.19 95.885 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "8d5b9434-6665-4a15-9914-93e890ff86cc")
+		)
+		(pin "7"
+			(uuid "1c925677-967e-4cfb-86e8-880594e0d42b")
+		)
+		(pin "8"
+			(uuid "d2af19f1-d3b0-4da2-9950-146700b4bd15")
+		)
+		(pin "12"
+			(uuid "7aeefc5e-48c4-4e01-aa91-23f816d66310")
+		)
+		(pin "9"
+			(uuid "c62c692f-9b66-4e33-bece-0ce09dcea191")
+		)
+		(pin "2"
+			(uuid "5161aae3-e66f-4db8-9ba9-758354106236")
+		)
+		(pin "10"
+			(uuid "6caf9d91-1ac3-4a4f-8ae6-b717fed800fa")
+		)
+		(pin "5"
+			(uuid "325b5dcd-5664-4cc8-bc4c-5a79fa8fe848")
+		)
+		(pin "13"
+			(uuid "1ceb1e8a-ef7b-4dc2-97df-22dafe53190e")
+		)
+		(pin "11"
+			(uuid "36594fa0-c571-4897-8d42-ec9a5eef610a")
+		)
+		(pin "1"
+			(uuid "2274a371-6856-44fd-8eb6-e12a283d6281")
+		)
+		(pin "6"
+			(uuid "1582e9b6-fda3-4cb1-8ce8-1b9dcc60ab3f")
+		)
+		(pin "3"
+			(uuid "cc3288cd-0dd6-44c1-b509-6c9334af1324")
+		)
+		(instances
+			(project "XBEE Grove C"
+				(path "/c24e3a98-1eaf-47b8-85b4-f5ec44a15aa3/51d81d60-9a03-4527-bd8e-0f5587f10d0b"
+					(reference "J9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "XBEE_Grove_C:110990030")
 		(at 265.43 107.95 0)
 		(unit 1)
@@ -3144,6 +3246,94 @@
 		)
 	)
 	(symbol
+		(lib_id "XBEE_Grove_C:XBEE_SMT_P14-21")
+		(at 123.19 100.33 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2e7665f9-a122-4d83-8fa3-f5372f6dacaa")
+		(property "Reference" "J12"
+			(at 146.05 120.6499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "76002056"
+			(at 146.05 123.1899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "XBEE_Grove_C:XBEE_SMT_P14-21"
+			(at 123.19 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 121.92 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 123.19 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "18"
+			(uuid "de8c8b70-ea05-4469-9213-03858c185be9")
+		)
+		(pin "20"
+			(uuid "862f239f-025e-4c7a-9fbb-c950c615bddb")
+		)
+		(pin "14"
+			(uuid "657868b3-0cf3-4a70-b463-2ece68f4a9ba")
+		)
+		(pin "21"
+			(uuid "d08a2f31-ef7d-42ce-b750-d9375f178a17")
+		)
+		(pin "19"
+			(uuid "de6554eb-0040-4ef4-8848-7d4790009c93")
+		)
+		(pin "16"
+			(uuid "ae8ce908-efb2-4d99-b7f5-d566a31fc2ff")
+		)
+		(pin "17"
+			(uuid "9bc7b95a-35ab-4381-b6ce-8d8ee3ea8a14")
+		)
+		(pin "15"
+			(uuid "1c725464-d4da-42be-b17b-87917e2f8ccf")
+		)
+		(instances
+			(project "XBEE Grove C"
+				(path "/c24e3a98-1eaf-47b8-85b4-f5ec44a15aa3/51d81d60-9a03-4527-bd8e-0f5587f10d0b"
+					(reference "J12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 251.46 69.85 0)
 		(unit 1)
@@ -3204,107 +3394,6 @@
 			(project "XBEE Grove C"
 				(path "/c24e3a98-1eaf-47b8-85b4-f5ec44a15aa3/51d81d60-9a03-4527-bd8e-0f5587f10d0b"
 					(reference "#PWR015")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "XBEE_Grove_C:XBEE_SMT_P1-13")
-		(at 123.19 95.885 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "3187ff5f-b48c-473c-83f8-d122bf552784")
-		(property "Reference" "J9"
-			(at 109.855 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "~"
-			(at 121.92 104.775 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "XBEE_Grove_C:XBEE_SMT_P1-13"
-			(at 123.19 64.135 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 121.92 104.775 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 123.19 95.885 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "10"
-			(uuid "e1597061-cd26-41c7-b988-3f6e1cb40da2")
-		)
-		(pin "3"
-			(uuid "d66de0b7-c01a-460e-b275-950f1d97a47b")
-		)
-		(pin "7"
-			(uuid "adbd88f1-4545-405b-8036-c28f552ead85")
-		)
-		(pin "6"
-			(uuid "ab503953-5b69-4972-ab12-3593d5d92d3e")
-		)
-		(pin "2"
-			(uuid "d3678f24-54bd-4853-93a6-d1b870d9c9f4")
-		)
-		(pin "5"
-			(uuid "52d7b6a7-5ca3-4d18-8071-014d3b2526a3")
-		)
-		(pin "13"
-			(uuid "1dfe3c71-83af-4f89-a0dc-1e73d9045398")
-		)
-		(pin "4"
-			(uuid "921cdeaa-0218-4d50-910b-e83e5a6fb4ea")
-		)
-		(pin "8"
-			(uuid "413f6546-5e5d-469d-beda-8d754a95ec8a")
-		)
-		(pin "9"
-			(uuid "481bb72f-6d88-48f8-b773-5c039ed703e3")
-		)
-		(pin "11"
-			(uuid "ab939a47-25f4-46bc-865c-83fa7a66562d")
-		)
-		(pin "12"
-			(uuid "b298962a-ee8c-42c5-842e-ce88dfe35d7b")
-		)
-		(pin "1"
-			(uuid "5ebcb18a-f366-4680-8a9f-b53d0888d750")
-		)
-		(instances
-			(project "XBEE Grove C"
-				(path "/c24e3a98-1eaf-47b8-85b4-f5ec44a15aa3/51d81d60-9a03-4527-bd8e-0f5587f10d0b"
-					(reference "J9")
 					(unit 1)
 				)
 			)
@@ -3504,6 +3593,107 @@
 			(project "XBEE Grove C"
 				(path "/c24e3a98-1eaf-47b8-85b4-f5ec44a15aa3/51d81d60-9a03-4527-bd8e-0f5587f10d0b"
 					(reference "#PWR020")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "XBEE_Grove_C:XBEE_SMT_P22-34")
+		(at 123.19 95.885 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "50233b07-296f-4803-8671-033c1c0764b8")
+		(property "Reference" "J13"
+			(at 135.89 56.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "76002056"
+			(at 135.89 59.055 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "XBEE_Grove_C:XBEE_SMT_P22-34"
+			(at 123.19 64.135 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 121.92 104.775 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 123.19 95.885 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "25"
+			(uuid "b9352bff-681d-4491-bcd7-e01c7a12e45c")
+		)
+		(pin "27"
+			(uuid "5aa4780c-9575-4468-9c7a-c14ff23a78ad")
+		)
+		(pin "29"
+			(uuid "f5abe534-955a-4c77-9d36-208cf121bd2a")
+		)
+		(pin "30"
+			(uuid "bc6a0067-8355-4c8e-9704-cfdfc738e15a")
+		)
+		(pin "24"
+			(uuid "ba78bb7d-1137-4df7-840f-0d7ddcc6ccdf")
+		)
+		(pin "26"
+			(uuid "250e7e4b-2382-4d30-8765-0b426f07888b")
+		)
+		(pin "23"
+			(uuid "e892bf7a-63f7-441c-b026-e8ceeb7050bb")
+		)
+		(pin "31"
+			(uuid "beca8b80-c7dd-42a3-b698-720afb0c4860")
+		)
+		(pin "33"
+			(uuid "2e2fae72-50ca-412c-a307-0911afd9b2d0")
+		)
+		(pin "28"
+			(uuid "057a2b72-7b2d-4c72-918f-c06377a69919")
+		)
+		(pin "34"
+			(uuid "4c965a1f-8f85-422f-a792-1351db8b38d7")
+		)
+		(pin "22"
+			(uuid "393442af-0350-4961-b7ba-4f6fd4da920b")
+		)
+		(pin "32"
+			(uuid "66af240a-f77f-46cd-92b6-99c271a013c3")
+		)
+		(instances
+			(project "XBEE Grove C"
+				(path "/c24e3a98-1eaf-47b8-85b4-f5ec44a15aa3/51d81d60-9a03-4527-bd8e-0f5587f10d0b"
+					(reference "J13")
 					(unit 1)
 				)
 			)
@@ -3847,92 +4037,6 @@
 			(project "XBEE Grove C"
 				(path "/c24e3a98-1eaf-47b8-85b4-f5ec44a15aa3/51d81d60-9a03-4527-bd8e-0f5587f10d0b"
 					(reference "#PWR024")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "XBEE_Grove_C:XBEE_SMT_P14-21")
-		(at 123.19 100.33 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "7da1e6d4-6753-4d05-944a-e8493e697192")
-		(property "Reference" "J12"
-			(at 101.6 132.715 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "~"
-			(at 121.92 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "XBEE_Grove_C:XBEE_SMT_P14-21"
-			(at 123.19 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 121.92 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 123.19 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "16"
-			(uuid "11b69162-54ff-4688-859f-e7ebc356ceca")
-		)
-		(pin "21"
-			(uuid "dc351512-5080-4e7f-81bc-10c2d151a347")
-		)
-		(pin "17"
-			(uuid "d978de14-c2b9-42c5-bd40-87ffc0adb5ab")
-		)
-		(pin "18"
-			(uuid "1dfdb4a2-cd90-4bd4-88ea-1627274207d8")
-		)
-		(pin "15"
-			(uuid "2617aabf-4f7e-4256-9d68-f89ffd7e822c")
-		)
-		(pin "19"
-			(uuid "d7061efb-aeca-45a4-a021-0572e606b7fa")
-		)
-		(pin "14"
-			(uuid "d879f9db-c54a-4ec2-a628-1d5fad016e0c")
-		)
-		(pin "20"
-			(uuid "688ceaaa-1b65-4500-88d6-751968f3fd60")
-		)
-		(instances
-			(project "XBEE Grove C"
-				(path "/c24e3a98-1eaf-47b8-85b4-f5ec44a15aa3/51d81d60-9a03-4527-bd8e-0f5587f10d0b"
-					(reference "J12")
 					(unit 1)
 				)
 			)
@@ -4332,107 +4436,6 @@
 			(project "XBEE Grove C"
 				(path "/c24e3a98-1eaf-47b8-85b4-f5ec44a15aa3/51d81d60-9a03-4527-bd8e-0f5587f10d0b"
 					(reference "#PWR014")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "XBEE_Grove_C:XBEE_SMT_P22-34")
-		(at 123.19 95.885 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a96fc4c7-c2cc-4c54-8571-b0a4f11a7d70")
-		(property "Reference" "J13"
-			(at 135.89 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "~"
-			(at 121.92 104.775 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "XBEE_Grove_C:XBEE_SMT_P22-34"
-			(at 123.19 64.135 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 121.92 104.775 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 123.19 95.885 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "25"
-			(uuid "556512a2-31ea-4db3-a641-0d4de26bd671")
-		)
-		(pin "27"
-			(uuid "e691250b-82a2-41e5-9657-8dab1bb62e7f")
-		)
-		(pin "28"
-			(uuid "fa4d3bf9-5ac9-45c5-aada-96f9fb3de2ea")
-		)
-		(pin "32"
-			(uuid "ba4010c8-f053-48bb-89bc-c2d88b0b99bb")
-		)
-		(pin "24"
-			(uuid "b354293c-3b79-4c89-a964-fd20605620c9")
-		)
-		(pin "31"
-			(uuid "9a0116e9-b839-4d3f-a9f5-6fc3e5e72f3e")
-		)
-		(pin "33"
-			(uuid "da1dd0e4-8bf0-4f23-96b3-c07aaf3f3bec")
-		)
-		(pin "34"
-			(uuid "6a47d435-0077-4113-8332-f88594523922")
-		)
-		(pin "29"
-			(uuid "6283cbd7-856c-4514-8bf2-68fd3cb9ebf3")
-		)
-		(pin "26"
-			(uuid "22624511-e41e-4aa6-ab44-b27e7e7ddcc0")
-		)
-		(pin "30"
-			(uuid "a9f3aad3-4bcc-456e-8c97-59cf1e92f834")
-		)
-		(pin "22"
-			(uuid "d599f9e3-a0df-4e4f-997d-946471c17ce4")
-		)
-		(pin "23"
-			(uuid "be611a67-6c99-4ae2-b506-8e8c7aef913a")
-		)
-		(instances
-			(project "XBEE Grove C"
-				(path "/c24e3a98-1eaf-47b8-85b4-f5ec44a15aa3/51d81d60-9a03-4527-bd8e-0f5587f10d0b"
-					(reference "J13")
 					(unit 1)
 				)
 			)

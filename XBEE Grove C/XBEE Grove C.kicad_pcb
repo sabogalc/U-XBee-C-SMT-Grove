@@ -3225,7 +3225,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "76002056"
 			(at -13.6 -24.85 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10436,7 +10436,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "76002056"
 			(at 15.15 -24.9 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12682,7 +12682,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "76002056"
 			(at 11.825 7.225 0)
 			(unlocked yes)
 			(layer "F.Fab")
