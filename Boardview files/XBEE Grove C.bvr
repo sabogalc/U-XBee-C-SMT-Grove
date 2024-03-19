@@ -262,17 +262,6 @@ PART_NAME J8
       PIN_COMMENT
    PIN_END
 
-   PIN_ID J8-A12
-      PIN_NUMBER A12
-      PIN_NAME A12
-      PIN_SIDE T
-      PIN_ORIGIN 5745.0 289.0
-      PIN_RADIUS 14.0
-      PIN_NET Net-(J8-GND-PadA1)
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
    PIN_ID J8-A4
       PIN_NUMBER A4
       PIN_NAME A4
@@ -339,9 +328,9 @@ PART_NAME J8
       PIN_COMMENT
    PIN_END
 
-   PIN_ID J8-B1
-      PIN_NUMBER B1
-      PIN_NAME B1
+   PIN_ID J8-A12
+      PIN_NUMBER A12
+      PIN_NAME A12
       PIN_SIDE T
       PIN_ORIGIN 5745.0 289.0
       PIN_RADIUS 14.0
@@ -350,11 +339,11 @@ PART_NAME J8
       PIN_COMMENT
    PIN_END
 
-   PIN_ID J8-B12
-      PIN_NUMBER B12
-      PIN_NAME B12
+   PIN_ID J8-B1
+      PIN_NUMBER B1
+      PIN_NAME B1
       PIN_SIDE T
-      PIN_ORIGIN 5493.0 289.0
+      PIN_ORIGIN 5745.0 289.0
       PIN_RADIUS 14.0
       PIN_NET Net-(J8-GND-PadA1)
       PIN_TYPE 2
@@ -423,6 +412,17 @@ PART_NAME J8
       PIN_ORIGIN 5525.0 289.0
       PIN_RADIUS 14.0
       PIN_NET Net-(J8-VBUS-PadA4)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J8-B12
+      PIN_NUMBER B12
+      PIN_NAME B12
+      PIN_SIDE T
+      PIN_ORIGIN 5493.0 289.0
+      PIN_RADIUS 14.0
+      PIN_NET Net-(J8-GND-PadA1)
       PIN_TYPE 2
       PIN_COMMENT
    PIN_END
@@ -860,94 +860,6 @@ PART_NAME J9
       PIN_COMMENT
    PIN_END
 
-   PIN_ID J9-10
-      PIN_NUMBER 10
-      PIN_NAME 10
-      PIN_SIDE T
-      PIN_ORIGIN 5186.0 1616.0
-      PIN_RADIUS 39.0
-      PIN_NET XBEE_DTR_N
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID J9-10
-      PIN_NUMBER 10
-      PIN_NAME 10
-      PIN_SIDE T
-      PIN_ORIGIN 5265.0 1616.0
-      PIN_RADIUS 39.0
-      PIN_NET XBEE_DTR_N
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID J9-11
-      PIN_NUMBER 11
-      PIN_NAME 11
-      PIN_SIDE T
-      PIN_ORIGIN 5186.0 1537.0
-      PIN_RADIUS 39.0
-      PIN_NET GND
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID J9-11
-      PIN_NUMBER 11
-      PIN_NAME 11
-      PIN_SIDE T
-      PIN_ORIGIN 5265.0 1537.0
-      PIN_RADIUS 39.0
-      PIN_NET GND
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID J9-12
-      PIN_NUMBER 12
-      PIN_NAME 12
-      PIN_SIDE T
-      PIN_ORIGIN 5186.0 1459.0
-      PIN_RADIUS 39.0
-      PIN_NET DIO19
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID J9-12
-      PIN_NUMBER 12
-      PIN_NAME 12
-      PIN_SIDE T
-      PIN_ORIGIN 5265.0 1459.0
-      PIN_RADIUS 39.0
-      PIN_NET DIO19
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID J9-13
-      PIN_NUMBER 13
-      PIN_NAME 13
-      PIN_SIDE T
-      PIN_ORIGIN 5186.0 1380.0
-      PIN_RADIUS 39.0
-      PIN_NET GND
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID J9-13
-      PIN_NUMBER 13
-      PIN_NAME 13
-      PIN_SIDE T
-      PIN_ORIGIN 5265.0 1380.0
-      PIN_RADIUS 39.0
-      PIN_NET GND
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
    PIN_ID J9-2
       PIN_NUMBER 2
       PIN_NAME 2
@@ -1120,6 +1032,94 @@ PART_NAME J9
       PIN_ORIGIN 5265.0 1695.0
       PIN_RADIUS 39.0
       PIN_NET unconnected-(J9-DEBUG{slash}SWDIO_1-Pad9)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J9-10
+      PIN_NUMBER 10
+      PIN_NAME 10
+      PIN_SIDE T
+      PIN_ORIGIN 5186.0 1616.0
+      PIN_RADIUS 39.0
+      PIN_NET XBEE_DTR_N
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J9-10
+      PIN_NUMBER 10
+      PIN_NAME 10
+      PIN_SIDE T
+      PIN_ORIGIN 5265.0 1616.0
+      PIN_RADIUS 39.0
+      PIN_NET XBEE_DTR_N
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J9-11
+      PIN_NUMBER 11
+      PIN_NAME 11
+      PIN_SIDE T
+      PIN_ORIGIN 5186.0 1537.0
+      PIN_RADIUS 39.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J9-11
+      PIN_NUMBER 11
+      PIN_NAME 11
+      PIN_SIDE T
+      PIN_ORIGIN 5265.0 1537.0
+      PIN_RADIUS 39.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J9-12
+      PIN_NUMBER 12
+      PIN_NAME 12
+      PIN_SIDE T
+      PIN_ORIGIN 5186.0 1459.0
+      PIN_RADIUS 39.0
+      PIN_NET DIO19
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J9-12
+      PIN_NUMBER 12
+      PIN_NAME 12
+      PIN_SIDE T
+      PIN_ORIGIN 5265.0 1459.0
+      PIN_RADIUS 39.0
+      PIN_NET DIO19
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J9-13
+      PIN_NUMBER 13
+      PIN_NAME 13
+      PIN_SIDE T
+      PIN_ORIGIN 5186.0 1380.0
+      PIN_RADIUS 39.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J9-13
+      PIN_NUMBER 13
+      PIN_NAME 13
+      PIN_SIDE T
+      PIN_ORIGIN 5265.0 1380.0
+      PIN_RADIUS 39.0
+      PIN_NET GND
       PIN_TYPE 2
       PIN_COMMENT
    PIN_END
@@ -2563,6 +2563,94 @@ PART_NAME U1
       PIN_COMMENT
    PIN_END
 
+   PIN_ID U1-2
+      PIN_NUMBER 2
+      PIN_NAME 2
+      PIN_SIDE T
+      PIN_ORIGIN 5861.0 908.0
+      PIN_RADIUS 10.0
+      PIN_NET XBEE_DTR_N
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-3
+      PIN_NUMBER 3
+      PIN_NAME 3
+      PIN_SIDE T
+      PIN_ORIGIN 5836.0 908.0
+      PIN_RADIUS 10.0
+      PIN_NET XBEE_RTS_N
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-4
+      PIN_NUMBER 4
+      PIN_NAME 4
+      PIN_SIDE T
+      PIN_ORIGIN 5810.0 908.0
+      PIN_RADIUS 10.0
+      PIN_NET +3.3VA
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-5
+      PIN_NUMBER 5
+      PIN_NAME 5
+      PIN_SIDE T
+      PIN_ORIGIN 5785.0 908.0
+      PIN_RADIUS 10.0
+      PIN_NET XBEE_TX
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-6
+      PIN_NUMBER 6
+      PIN_NAME 6
+      PIN_SIDE T
+      PIN_ORIGIN 5759.0 908.0
+      PIN_RADIUS 10.0
+      PIN_NET unconnected-(U1-RI#-Pad6)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-7
+      PIN_NUMBER 7
+      PIN_NAME 7
+      PIN_SIDE T
+      PIN_ORIGIN 5733.0 908.0
+      PIN_RADIUS 10.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-8
+      PIN_NUMBER 8
+      PIN_NAME 8
+      PIN_SIDE T
+      PIN_ORIGIN 5708.0 908.0
+      PIN_RADIUS 10.0
+      PIN_NET unconnected-(U1-NC-Pad8)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-9
+      PIN_NUMBER 9
+      PIN_NAME 9
+      PIN_SIDE T
+      PIN_ORIGIN 5682.0 908.0
+      PIN_RADIUS 10.0
+      PIN_NET unconnected-(U1-DSR#-Pad9)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
    PIN_ID U1-10
       PIN_NUMBER 10
       PIN_NAME 10
@@ -2673,17 +2761,6 @@ PART_NAME U1
       PIN_COMMENT
    PIN_END
 
-   PIN_ID U1-2
-      PIN_NUMBER 2
-      PIN_NAME 2
-      PIN_SIDE T
-      PIN_ORIGIN 5861.0 908.0
-      PIN_RADIUS 10.0
-      PIN_NET XBEE_DTR_N
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
    PIN_ID U1-20
       PIN_NUMBER 20
       PIN_NAME 20
@@ -2779,83 +2856,6 @@ PART_NAME U1
       PIN_ORIGIN 5887.0 628.0
       PIN_RADIUS 10.0
       PIN_NET unconnected-(U1-OSCO-Pad28)
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID U1-3
-      PIN_NUMBER 3
-      PIN_NAME 3
-      PIN_SIDE T
-      PIN_ORIGIN 5836.0 908.0
-      PIN_RADIUS 10.0
-      PIN_NET XBEE_RTS_N
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID U1-4
-      PIN_NUMBER 4
-      PIN_NAME 4
-      PIN_SIDE T
-      PIN_ORIGIN 5810.0 908.0
-      PIN_RADIUS 10.0
-      PIN_NET +3.3VA
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID U1-5
-      PIN_NUMBER 5
-      PIN_NAME 5
-      PIN_SIDE T
-      PIN_ORIGIN 5785.0 908.0
-      PIN_RADIUS 10.0
-      PIN_NET XBEE_TX
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID U1-6
-      PIN_NUMBER 6
-      PIN_NAME 6
-      PIN_SIDE T
-      PIN_ORIGIN 5759.0 908.0
-      PIN_RADIUS 10.0
-      PIN_NET unconnected-(U1-RI#-Pad6)
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID U1-7
-      PIN_NUMBER 7
-      PIN_NAME 7
-      PIN_SIDE T
-      PIN_ORIGIN 5733.0 908.0
-      PIN_RADIUS 10.0
-      PIN_NET GND
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID U1-8
-      PIN_NUMBER 8
-      PIN_NAME 8
-      PIN_SIDE T
-      PIN_ORIGIN 5708.0 908.0
-      PIN_RADIUS 10.0
-      PIN_NET unconnected-(U1-NC-Pad8)
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID U1-9
-      PIN_NUMBER 9
-      PIN_NAME 9
-      PIN_SIDE T
-      PIN_ORIGIN 5682.0 908.0
-      PIN_RADIUS 10.0
-      PIN_NET unconnected-(U1-DSR#-Pad9)
       PIN_TYPE 2
       PIN_COMMENT
    PIN_END
