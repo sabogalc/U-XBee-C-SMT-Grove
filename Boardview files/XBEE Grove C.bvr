@@ -229,28 +229,6 @@ PART_NAME J8
    PART_ORIGIN 0.000 0.000
    PART_MOUNT SMD
 
-   PIN_ID J8-
-      PIN_NUMBER 
-      PIN_NAME 
-      PIN_SIDE T
-      PIN_ORIGIN 5505.0 247.0
-      PIN_RADIUS 15.0
-      PIN_NET 
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID J8-
-      PIN_NUMBER 
-      PIN_NAME 
-      PIN_SIDE T
-      PIN_ORIGIN 5733.0 247.0
-      PIN_RADIUS 15.0
-      PIN_NET 
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
    PIN_ID J8-A1
       PIN_NUMBER A1
       PIN_NAME A1
@@ -467,6 +445,28 @@ PART_NAME J8
       PIN_ORIGIN 5789.0 102.0
       PIN_RADIUS 24.0
       PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J8-
+      PIN_NUMBER 
+      PIN_NAME 
+      PIN_SIDE T
+      PIN_ORIGIN 5505.0 247.0
+      PIN_RADIUS 15.0
+      PIN_NET 
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J8-
+      PIN_NUMBER 
+      PIN_NAME 
+      PIN_SIDE T
+      PIN_ORIGIN 5733.0 247.0
+      PIN_RADIUS 15.0
+      PIN_NET 
       PIN_TYPE 2
       PIN_COMMENT
    PIN_END
@@ -694,149 +694,6 @@ PART_NAME J9
    PART_SIDE T
    PART_ORIGIN 0.000 0.000
    PART_MOUNT Through hole
-
-   PIN_ID J9-
-      PIN_NUMBER 
-      PIN_NAME 
-      PIN_SIDE T
-      PIN_ORIGIN 5345.0 2325.0
-      PIN_RADIUS 39.0
-      PIN_NET 
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID J9-
-      PIN_NUMBER 
-      PIN_NAME 
-      PIN_SIDE T
-      PIN_ORIGIN 5345.0 2246.0
-      PIN_RADIUS 39.0
-      PIN_NET 
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID J9-
-      PIN_NUMBER 
-      PIN_NAME 
-      PIN_SIDE T
-      PIN_ORIGIN 5345.0 2167.0
-      PIN_RADIUS 39.0
-      PIN_NET 
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID J9-
-      PIN_NUMBER 
-      PIN_NAME 
-      PIN_SIDE T
-      PIN_ORIGIN 5345.0 2089.0
-      PIN_RADIUS 39.0
-      PIN_NET 
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID J9-
-      PIN_NUMBER 
-      PIN_NAME 
-      PIN_SIDE T
-      PIN_ORIGIN 5345.0 2010.0
-      PIN_RADIUS 39.0
-      PIN_NET 
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID J9-
-      PIN_NUMBER 
-      PIN_NAME 
-      PIN_SIDE T
-      PIN_ORIGIN 5345.0 1931.0
-      PIN_RADIUS 39.0
-      PIN_NET 
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID J9-
-      PIN_NUMBER 
-      PIN_NAME 
-      PIN_SIDE T
-      PIN_ORIGIN 5345.0 1852.0
-      PIN_RADIUS 39.0
-      PIN_NET 
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID J9-
-      PIN_NUMBER 
-      PIN_NAME 
-      PIN_SIDE T
-      PIN_ORIGIN 5345.0 1774.0
-      PIN_RADIUS 39.0
-      PIN_NET 
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID J9-
-      PIN_NUMBER 
-      PIN_NAME 
-      PIN_SIDE T
-      PIN_ORIGIN 5345.0 1695.0
-      PIN_RADIUS 39.0
-      PIN_NET 
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID J9-
-      PIN_NUMBER 
-      PIN_NAME 
-      PIN_SIDE T
-      PIN_ORIGIN 5345.0 1616.0
-      PIN_RADIUS 39.0
-      PIN_NET 
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID J9-
-      PIN_NUMBER 
-      PIN_NAME 
-      PIN_SIDE T
-      PIN_ORIGIN 5345.0 1537.0
-      PIN_RADIUS 39.0
-      PIN_NET 
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID J9-
-      PIN_NUMBER 
-      PIN_NAME 
-      PIN_SIDE T
-      PIN_ORIGIN 5345.0 1459.0
-      PIN_RADIUS 39.0
-      PIN_NET 
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID J9-
-      PIN_NUMBER 
-      PIN_NAME 
-      PIN_SIDE T
-      PIN_ORIGIN 5345.0 1380.0
-      PIN_RADIUS 39.0
-      PIN_NET 
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
 
    PIN_ID J9-1
       PIN_NUMBER 1
@@ -1120,6 +977,149 @@ PART_NAME J9
       PIN_ORIGIN 5265.0 1380.0
       PIN_RADIUS 39.0
       PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J9-
+      PIN_NUMBER 
+      PIN_NAME 
+      PIN_SIDE T
+      PIN_ORIGIN 5345.0 2325.0
+      PIN_RADIUS 39.0
+      PIN_NET 
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J9-
+      PIN_NUMBER 
+      PIN_NAME 
+      PIN_SIDE T
+      PIN_ORIGIN 5345.0 2246.0
+      PIN_RADIUS 39.0
+      PIN_NET 
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J9-
+      PIN_NUMBER 
+      PIN_NAME 
+      PIN_SIDE T
+      PIN_ORIGIN 5345.0 2167.0
+      PIN_RADIUS 39.0
+      PIN_NET 
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J9-
+      PIN_NUMBER 
+      PIN_NAME 
+      PIN_SIDE T
+      PIN_ORIGIN 5345.0 2089.0
+      PIN_RADIUS 39.0
+      PIN_NET 
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J9-
+      PIN_NUMBER 
+      PIN_NAME 
+      PIN_SIDE T
+      PIN_ORIGIN 5345.0 2010.0
+      PIN_RADIUS 39.0
+      PIN_NET 
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J9-
+      PIN_NUMBER 
+      PIN_NAME 
+      PIN_SIDE T
+      PIN_ORIGIN 5345.0 1931.0
+      PIN_RADIUS 39.0
+      PIN_NET 
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J9-
+      PIN_NUMBER 
+      PIN_NAME 
+      PIN_SIDE T
+      PIN_ORIGIN 5345.0 1852.0
+      PIN_RADIUS 39.0
+      PIN_NET 
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J9-
+      PIN_NUMBER 
+      PIN_NAME 
+      PIN_SIDE T
+      PIN_ORIGIN 5345.0 1774.0
+      PIN_RADIUS 39.0
+      PIN_NET 
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J9-
+      PIN_NUMBER 
+      PIN_NAME 
+      PIN_SIDE T
+      PIN_ORIGIN 5345.0 1695.0
+      PIN_RADIUS 39.0
+      PIN_NET 
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J9-
+      PIN_NUMBER 
+      PIN_NAME 
+      PIN_SIDE T
+      PIN_ORIGIN 5345.0 1616.0
+      PIN_RADIUS 39.0
+      PIN_NET 
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J9-
+      PIN_NUMBER 
+      PIN_NAME 
+      PIN_SIDE T
+      PIN_ORIGIN 5345.0 1537.0
+      PIN_RADIUS 39.0
+      PIN_NET 
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J9-
+      PIN_NUMBER 
+      PIN_NAME 
+      PIN_SIDE T
+      PIN_ORIGIN 5345.0 1459.0
+      PIN_RADIUS 39.0
+      PIN_NET 
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J9-
+      PIN_NUMBER 
+      PIN_NAME 
+      PIN_SIDE T
+      PIN_ORIGIN 5345.0 1380.0
+      PIN_RADIUS 39.0
+      PIN_NET 
       PIN_TYPE 2
       PIN_COMMENT
    PIN_END
@@ -2115,149 +2115,6 @@ PART_NAME J13
    PART_ORIGIN 0.000 0.000
    PART_MOUNT Through hole
 
-   PIN_ID J13-
-      PIN_NUMBER 
-      PIN_NAME 
-      PIN_SIDE T
-      PIN_ORIGIN 6215.0 2325.0
-      PIN_RADIUS 39.0
-      PIN_NET 
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID J13-
-      PIN_NUMBER 
-      PIN_NAME 
-      PIN_SIDE T
-      PIN_ORIGIN 6215.0 2246.0
-      PIN_RADIUS 39.0
-      PIN_NET 
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID J13-
-      PIN_NUMBER 
-      PIN_NAME 
-      PIN_SIDE T
-      PIN_ORIGIN 6215.0 2167.0
-      PIN_RADIUS 39.0
-      PIN_NET 
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID J13-
-      PIN_NUMBER 
-      PIN_NAME 
-      PIN_SIDE T
-      PIN_ORIGIN 6215.0 2089.0
-      PIN_RADIUS 39.0
-      PIN_NET 
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID J13-
-      PIN_NUMBER 
-      PIN_NAME 
-      PIN_SIDE T
-      PIN_ORIGIN 6215.0 2010.0
-      PIN_RADIUS 39.0
-      PIN_NET 
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID J13-
-      PIN_NUMBER 
-      PIN_NAME 
-      PIN_SIDE T
-      PIN_ORIGIN 6215.0 1931.0
-      PIN_RADIUS 39.0
-      PIN_NET 
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID J13-
-      PIN_NUMBER 
-      PIN_NAME 
-      PIN_SIDE T
-      PIN_ORIGIN 6215.0 1852.0
-      PIN_RADIUS 39.0
-      PIN_NET 
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID J13-
-      PIN_NUMBER 
-      PIN_NAME 
-      PIN_SIDE T
-      PIN_ORIGIN 6215.0 1774.0
-      PIN_RADIUS 39.0
-      PIN_NET 
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID J13-
-      PIN_NUMBER 
-      PIN_NAME 
-      PIN_SIDE T
-      PIN_ORIGIN 6215.0 1695.0
-      PIN_RADIUS 39.0
-      PIN_NET 
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID J13-
-      PIN_NUMBER 
-      PIN_NAME 
-      PIN_SIDE T
-      PIN_ORIGIN 6215.0 1616.0
-      PIN_RADIUS 39.0
-      PIN_NET 
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID J13-
-      PIN_NUMBER 
-      PIN_NAME 
-      PIN_SIDE T
-      PIN_ORIGIN 6215.0 1537.0
-      PIN_RADIUS 39.0
-      PIN_NET 
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID J13-
-      PIN_NUMBER 
-      PIN_NAME 
-      PIN_SIDE T
-      PIN_ORIGIN 6215.0 1459.0
-      PIN_RADIUS 39.0
-      PIN_NET 
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID J13-
-      PIN_NUMBER 
-      PIN_NAME 
-      PIN_SIDE T
-      PIN_ORIGIN 6215.0 1380.0
-      PIN_RADIUS 39.0
-      PIN_NET 
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
    PIN_ID J13-22
       PIN_NUMBER 22
       PIN_NAME 22
@@ -2540,6 +2397,149 @@ PART_NAME J13
       PIN_ORIGIN 6373.0 2325.0
       PIN_RADIUS 39.0
       PIN_NET unconnected-(J13-RF_SELECT-Pad34)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J13-
+      PIN_NUMBER 
+      PIN_NAME 
+      PIN_SIDE T
+      PIN_ORIGIN 6215.0 2325.0
+      PIN_RADIUS 39.0
+      PIN_NET 
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J13-
+      PIN_NUMBER 
+      PIN_NAME 
+      PIN_SIDE T
+      PIN_ORIGIN 6215.0 2246.0
+      PIN_RADIUS 39.0
+      PIN_NET 
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J13-
+      PIN_NUMBER 
+      PIN_NAME 
+      PIN_SIDE T
+      PIN_ORIGIN 6215.0 2167.0
+      PIN_RADIUS 39.0
+      PIN_NET 
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J13-
+      PIN_NUMBER 
+      PIN_NAME 
+      PIN_SIDE T
+      PIN_ORIGIN 6215.0 2089.0
+      PIN_RADIUS 39.0
+      PIN_NET 
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J13-
+      PIN_NUMBER 
+      PIN_NAME 
+      PIN_SIDE T
+      PIN_ORIGIN 6215.0 2010.0
+      PIN_RADIUS 39.0
+      PIN_NET 
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J13-
+      PIN_NUMBER 
+      PIN_NAME 
+      PIN_SIDE T
+      PIN_ORIGIN 6215.0 1931.0
+      PIN_RADIUS 39.0
+      PIN_NET 
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J13-
+      PIN_NUMBER 
+      PIN_NAME 
+      PIN_SIDE T
+      PIN_ORIGIN 6215.0 1852.0
+      PIN_RADIUS 39.0
+      PIN_NET 
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J13-
+      PIN_NUMBER 
+      PIN_NAME 
+      PIN_SIDE T
+      PIN_ORIGIN 6215.0 1774.0
+      PIN_RADIUS 39.0
+      PIN_NET 
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J13-
+      PIN_NUMBER 
+      PIN_NAME 
+      PIN_SIDE T
+      PIN_ORIGIN 6215.0 1695.0
+      PIN_RADIUS 39.0
+      PIN_NET 
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J13-
+      PIN_NUMBER 
+      PIN_NAME 
+      PIN_SIDE T
+      PIN_ORIGIN 6215.0 1616.0
+      PIN_RADIUS 39.0
+      PIN_NET 
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J13-
+      PIN_NUMBER 
+      PIN_NAME 
+      PIN_SIDE T
+      PIN_ORIGIN 6215.0 1537.0
+      PIN_RADIUS 39.0
+      PIN_NET 
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J13-
+      PIN_NUMBER 
+      PIN_NAME 
+      PIN_SIDE T
+      PIN_ORIGIN 6215.0 1459.0
+      PIN_RADIUS 39.0
+      PIN_NET 
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J13-
+      PIN_NUMBER 
+      PIN_NAME 
+      PIN_SIDE T
+      PIN_ORIGIN 6215.0 1380.0
+      PIN_RADIUS 39.0
+      PIN_NET 
       PIN_TYPE 2
       PIN_COMMENT
    PIN_END
@@ -2868,94 +2868,6 @@ PART_NAME J12
    PART_ORIGIN 0.000 0.000
    PART_MOUNT Through hole
 
-   PIN_ID J12-
-      PIN_NUMBER 
-      PIN_NAME 
-      PIN_SIDE T
-      PIN_ORIGIN 5503.0 1300.0
-      PIN_RADIUS 39.0
-      PIN_NET 
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID J12-
-      PIN_NUMBER 
-      PIN_NAME 
-      PIN_SIDE T
-      PIN_ORIGIN 5582.0 1300.0
-      PIN_RADIUS 39.0
-      PIN_NET 
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID J12-
-      PIN_NUMBER 
-      PIN_NAME 
-      PIN_SIDE T
-      PIN_ORIGIN 5661.0 1300.0
-      PIN_RADIUS 39.0
-      PIN_NET 
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID J12-
-      PIN_NUMBER 
-      PIN_NAME 
-      PIN_SIDE T
-      PIN_ORIGIN 5740.0 1300.0
-      PIN_RADIUS 39.0
-      PIN_NET 
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID J12-
-      PIN_NUMBER 
-      PIN_NAME 
-      PIN_SIDE T
-      PIN_ORIGIN 5818.0 1300.0
-      PIN_RADIUS 39.0
-      PIN_NET 
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID J12-
-      PIN_NUMBER 
-      PIN_NAME 
-      PIN_SIDE T
-      PIN_ORIGIN 5897.0 1300.0
-      PIN_RADIUS 39.0
-      PIN_NET 
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID J12-
-      PIN_NUMBER 
-      PIN_NAME 
-      PIN_SIDE T
-      PIN_ORIGIN 5976.0 1300.0
-      PIN_RADIUS 39.0
-      PIN_NET 
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID J12-
-      PIN_NUMBER 
-      PIN_NAME 
-      PIN_SIDE T
-      PIN_ORIGIN 6055.0 1300.0
-      PIN_RADIUS 39.0
-      PIN_NET 
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
    PIN_ID J12-14
       PIN_NUMBER 14
       PIN_NAME 14
@@ -3128,6 +3040,94 @@ PART_NAME J12
       PIN_ORIGIN 6055.0 1141.0
       PIN_RADIUS 39.0
       PIN_NET DIO18
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J12-
+      PIN_NUMBER 
+      PIN_NAME 
+      PIN_SIDE T
+      PIN_ORIGIN 5503.0 1300.0
+      PIN_RADIUS 39.0
+      PIN_NET 
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J12-
+      PIN_NUMBER 
+      PIN_NAME 
+      PIN_SIDE T
+      PIN_ORIGIN 5582.0 1300.0
+      PIN_RADIUS 39.0
+      PIN_NET 
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J12-
+      PIN_NUMBER 
+      PIN_NAME 
+      PIN_SIDE T
+      PIN_ORIGIN 5661.0 1300.0
+      PIN_RADIUS 39.0
+      PIN_NET 
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J12-
+      PIN_NUMBER 
+      PIN_NAME 
+      PIN_SIDE T
+      PIN_ORIGIN 5740.0 1300.0
+      PIN_RADIUS 39.0
+      PIN_NET 
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J12-
+      PIN_NUMBER 
+      PIN_NAME 
+      PIN_SIDE T
+      PIN_ORIGIN 5818.0 1300.0
+      PIN_RADIUS 39.0
+      PIN_NET 
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J12-
+      PIN_NUMBER 
+      PIN_NAME 
+      PIN_SIDE T
+      PIN_ORIGIN 5897.0 1300.0
+      PIN_RADIUS 39.0
+      PIN_NET 
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J12-
+      PIN_NUMBER 
+      PIN_NAME 
+      PIN_SIDE T
+      PIN_ORIGIN 5976.0 1300.0
+      PIN_RADIUS 39.0
+      PIN_NET 
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J12-
+      PIN_NUMBER 
+      PIN_NAME 
+      PIN_SIDE T
+      PIN_ORIGIN 6055.0 1300.0
+      PIN_RADIUS 39.0
+      PIN_NET 
       PIN_TYPE 2
       PIN_COMMENT
    PIN_END
